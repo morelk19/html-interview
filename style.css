@@ -1,8 +1,13 @@
+body
+{
+    background-image: url("https://w.wallha.com/ws/12/52XmPLD0.jpg");
+}
 div  {
     border: 1px solid blue;
     padding: 25px;
+    box-shadow: 5px 5px 15px 5px black;
+    background-color: blanchedalmond;
 }
-
 h1  {
     font-family: Arial; 
     font-style: italic;
